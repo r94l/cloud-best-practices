@@ -1,4 +1,4 @@
-### “I used to find Linux administration intimidating until this challenge forced me to level up.” 
+### I used to find Linux administration intimidating until this challenge forced me to level up.
 
 I was working on a project where a customer lost access to a critical Linux server. SSH was inaccessible, the OS wouldn’t boot, and backups weren’t immediately usable. Downtime was growing, and I needed a fast solution.
 
